@@ -1,0 +1,161 @@
+z <-R
+z <- 12
+class(x)
+z <- 
+z <- 12
+x
+z <- 12
+z
+z <-L
+z <-1L
+z
+z <- (12, TRUE)
+z <- c(12, TRUE)
+z
+y <- c("a", 1+0i)
+y
+z <- c(12, T)
+z
+y <- c("a", 1+0i)
+y
+m <- c(110, 113,115,133)
+n <- c(113,212,818,1110)
+rbind(m,n)
+z <- list(22, "a", 1+4i, TRUE)
+z[[3]]
+z <- c 10:40
+z <- c (10:40)
+y <- c (3)
+z + y
+z * y
+ x <- c(117, 114, 14, 15, 113, 112, 110)
+x <=16
+x < 16
+x > 16
+z <-c(12, TRUE)
+z
+y <- c("a", 1+0i)
+y
+as.logical(z)
+as.complex(y)
+ x <- c(117, 114, 14, 15, 113, 112, 110)
+x >16
+ x <- c(117, 114, 14, 15, 113, 112, 110)
+names(x)
+names(x) <-c(Sona.R)
+names(x) <-c("Sona.R")
+x
+m <- c(110,113,115,133)
+n <- c(113,212,818,1110)
+rbind(m,n)
+rbind(m,n) 
+names(x)
+names(m,n)
+dimnames(m,n)
+dimnames(m)
+m
+m,n <- list (suna.R = m,n)
+dimnames(m,n) <-c("Suna.R")
+rbind(m,n)
+names(m,n)
+dimnames (m,n)
+data <-read.table("quiz_data")
+data <-read.table("quiz_data.csv")
+data <-read.table("quiz_data.csv")
+data <- read.table("quiz_data.csv")
+data <- read.data("quiz_data.csv")
+data <- read.table(quiz_data.csv)
+data <- read.table("quiz_data.csv")
+data <- read.table("quiz_data.csv")
+data <- read.table("quiz_data.csv")
+data <- read.table("quizdata.csv")
+data <- read.table("quiz_data.csv")
+save.image("C:\\Users\\RM A-225\\Desktop\\DSPQuiz\\kyleprelimquiz")
+data <- read.table("quiz_data.csv")
+data <- read.table("quiz_data.csv")
+data <- read.table("quiz_data.csv")
+data <- read.table("foo.text")
+data <- read.table("quiz.csv")
+data <- read.table("quiz1.csv")
+data <- read.table("quiz_data.csv")
+data <- read.table("quiz1.txt")
+data <- read.table("quiz_data.txt")
+data <- read.table("quiz_data.csv")
+data <- read.csv("quiz_data.csv")
+data <- read.table("quiz_data.csv")
+data <- read.csv("quiz_data.csv")
+data <- read.csv("quiz_data.csv")
+data <- read.quiz_data.csv("quiz_data.csv")
+data <- quiz_data.csv("quiz_data.csv")
+data <- read.csv("quiz_data.csv")
+data <- read.("quiz_data.csv")
+data <- read.csv("quiz_data.csv")
+data
+column name
+data [136:153]
+data 135:153
+data <- 135:153
+x <- 135:153
+data
+data <- 1:35
+data 1:35
+data 35
+data <- 35
+x <- 135:153
+class(x)
+data <- 135:153
+class(data)
+data <- 135:153
+data
+data <- 0:82
+data
+data <- 82:0 
+data
+data <- 82:wind 
+data <- data.frame (Wind = 82:0)
+data
+data <- data.frame (Wind = 82)
+data
+data <- data.frame (Temp = 32)
+data
+save.image("C:\\Users\\RM A-225\\Desktop\\DSPQuiz\\quiz2")
+data <- data.frame (Wind = 82:3)
+data
+airquality[82,3]
+airquality[32,4]
+airquality[42,2]
+is.na(x)
+is.na(data)
+is.na(data, Ozone)
+is.na(Ozone)
+is.na(data)
+data <-c("Ozone")
+is.na(data)
+data <-c("Solar.R")
+is.na(data)
+is.nan(data)
+data <-c("Solar.R","Ozone","Wind", "Temp")
+is.nan(data)
+is.na(data)
+data <-c("Solar.R",NA,"Ozone","Wind", "Temp")
+is.na(data)
+data <-c("Solar.R","Ozone",NA,"Wind", "Temp")
+is.na(data)
+data <-c("Solar.R","Ozone","Wind", NA, "Temp")
+is.na(data)
+data <-c("Solar.R","Ozone","Wind", "Temp", NA)
+is.na(data)
+data <-list(Ozone = 1:25, Temp = 70:153) 
+data[25]
+data[10]
+data[1]
+data <-list(Ozone = 25:69, Temp = 70:153) 
+data[1]
+data[2]
+data <-list(Ozone = 28:69, Temp = 70:153) 
+data[1]
+data[2]
+airquality[1:6, ]
+airquality[1:153, ]
+good <-complete.cases(airquality)
+airquality[good,][1:153,]
